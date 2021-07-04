@@ -1,0 +1,23 @@
+{
+  "name": "stackoverflow-68238492",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rui-costa/stackoverflow-68238492.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rui-costa/stackoverflow-68238492/issues"
+  },
+  "homepage": "https://github.com/rui-costa/stackoverflow-68238492#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
