@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/rui-costa/stackoverflow-68238492#readme",
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "path": "^0.12.7"
   }
 }
